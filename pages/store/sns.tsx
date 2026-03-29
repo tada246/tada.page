@@ -9,12 +9,12 @@ export const sns: { name: string; icon: ReactNode; href: string }[] = [
     {
         name: 'Bluesky',
         icon: <Bluesky size={18} />,
-        href: 'https://bsky.app/profile/zuk246.net',
+        href: 'https://bsky.app/profile/tada.page',
     },
     {
         name: 'GitHub',
         icon: <FaGithub size={18} />,
-        href: 'https://github.com/zuk246',
+        href: 'https://github.com/tada246',
     },
     {
         name: 'Zenn',
@@ -24,31 +24,11 @@ export const sns: { name: string; icon: ReactNode; href: string }[] = [
     {
         name: 'Twitter',
         icon: <FaTwitter size={18} />,
-        href: 'https://twitter.com/zuk246',
-    },
-    {
-        name: 'Medium',
-        icon: <FaMedium size={18} />,
-        href: 'https://medium.com/@zuk246',
-    },
-    {
-        name: 'Dev.to',
-        icon: <FaDev size={18} />,
-        href: 'https://dev.to/zuk246',
-    },
-    {
-        name: 'Mastodon',
-        icon: <FaMastodon size={18} />,
-        href: 'https://mstdn.jp/@zuk246',
+        href: 'https://twitter.com/tada0100',
     },
     {
         name: 'Note',
         icon: <Note size={18} />,
         href: 'https://note.com/zuk246',
-    },
-    {
-        name: 'Buy me a coffee',
-        icon: <SiBuymeacoffee size={18} />,
-        href: 'https://www.buymeacoffee.com/zuk246',
     },
 ];

@@ -14,7 +14,7 @@ import dayjs from 'dayjs';
 import { FaInfo, FaRegClock } from 'react-icons/fa';
 import { FaArrowUpRightFromSquare, FaRegCircleDot, FaT } from 'react-icons/fa6';
 
-const API = 'https://zuk246.microcms.io/api/v1/works';
+const API = 'https://tada.microcms.io/api/v1/works';
 const headers = {
     'X-MICROCMS-API-KEY': process.env.MICROCMS_API_KEY ?? '',
 };
